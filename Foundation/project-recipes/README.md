@@ -1,0 +1,1 @@
+A basic recipe project using only HTML.
